@@ -1,0 +1,10 @@
+{
+	"title"  :  "Luke's Script",
+	"type"   :  "tool",
+	"tags"   :  [ "roleplay", "fun" ],
+	"ignore" : 
+	[
+		"*.vcproj",
+		"*.svn"
+	]
+}
